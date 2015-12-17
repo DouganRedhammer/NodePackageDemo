@@ -1,0 +1,23 @@
+{
+  "name": "NodePackageDemo",
+  "version": "1.0.0",
+  "description": "An example on creating a npm package",
+  "main": "npmTestPackage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/douganredhammer/NodePackageDemo"
+  },
+  "keywords": [
+    "Example",
+    "Demo"
+  ],
+  "author": "Daniel Franklin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/douganredhammer/NodePackageDemo/issues"
+  },
+  "homepage": "https://github.com/douganredhammer/NodePackageDemo"
+}
